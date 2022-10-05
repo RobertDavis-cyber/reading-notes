@@ -29,6 +29,9 @@ This site was built using [Robert Davis](https://github.com/RobertDavis-cyber?ta
 
 * [Class7](https://github.com/RobertDavis-cyber/reading-notes/blob/6fc2ab6c13973c72ef96fb1a90908d8ad60002e6/class7.md)
 
+* [Class8](https://github.com/RobertDavis-cyber/reading-notes/blob/f3698daaa17faf93d01c2f6b2cd8585f54bf09a9/class8.md)
+
+
   
   
  
