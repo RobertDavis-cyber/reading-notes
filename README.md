@@ -15,21 +15,21 @@ This site was built using [Robert Davis](https://github.com/RobertDavis-cyber?ta
 
 ### Table of Contents
 
-* [Class1](https://github.com/RobertDavis-cyber/reading-notes/blob/a65168d012a02c8e4486a20b25bd393709eecab1/class1.md)
+* [Class1](class1.md)
 
-* [Class2](https://github.com/RobertDavis-cyber/reading-notes/blob/0f89028389f56afe30f3218ce85a2f8eda337533/class2.md)
+* [Class2](class2.md)
 
-* [Class3](https://github.com/RobertDavis-cyber/reading-notes/blob/0f89028389f56afe30f3218ce85a2f8eda337533/class3.md)
+* [Class3](class3.md)
 
-* [Class4](https://github.com/RobertDavis-cyber/reading-notes/blob/0f89028389f56afe30f3218ce85a2f8eda337533/class4.md)
+* [Class4](class4.md)
 
-* [Class5](https://github.com/RobertDavis-cyber/reading-notes/blob/0f89028389f56afe30f3218ce85a2f8eda337533/class5.md)
+* [Class5](class5.md)
 
-* [Class6](https://github.com/RobertDavis-cyber/reading-notes/blob/0f89028389f56afe30f3218ce85a2f8eda337533/class6.md)
+* [Class6](class6.md)
 
-* [Class7](https://github.com/RobertDavis-cyber/reading-notes/blob/6fc2ab6c13973c72ef96fb1a90908d8ad60002e6/class7.md)
+* [Class7](class7.md)
 
-* [Class8](https://github.com/RobertDavis-cyber/reading-notes/blob/f3698daaa17faf93d01c2f6b2cd8585f54bf09a9/class8.md)
+* [Class8](class8.md)
 
 
   
