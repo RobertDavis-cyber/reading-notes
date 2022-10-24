@@ -31,6 +31,44 @@ This site was built using [Robert Davis](https://github.com/RobertDavis-cyber?ta
 
 * [Class8](class8.md)
 
+# My Reading Journal
+My reading journal for seattle-code-201d92
+
+### Table of Contents
+
+* [Class1](class1.md)
+
+* [Class2](class2.md)
+
+* [Class3](class3.md)
+
+* [Class4](class4.md)
+
+* [Class5](class5.md)
+
+* [Class6](class6.md)
+
+* [Class7](class7.md)
+
+* [Class8](class8.md)
+
+* [Class9](class9.md)
+
+* [Class10](class10.md)
+
+* [Class11](class11.md)
+
+* [Class12](class12.md)
+
+* [Class13](class13.md)
+
+* [Class14](class14.md)
+
+* [Class15](class15.md)
+
+
+
+
 
   
   
