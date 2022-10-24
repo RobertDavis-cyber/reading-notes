@@ -73,3 +73,72 @@ Beware of silly typos.
 * > dragonfly
 * & dragonfly
 * `dragonfly`
+
+# Class 2 Code 201 Reading Notes
+
+# My Reading Journal
+**My reading journal for seattle-code-201d92**
+
+# Readings: Basics of HTML, CSS & JS Assignment 2
+
+# Continuation Reading
+
+3 Reminders to Myself to Stay in Growth Mindset:
+- 1.What are ways we can apply CSS to our HTML?
+- 2.Why should we avoid using inline styles?
+- 3.Review the block of code below and answer the following questions:
+- 1.What is representing the selector?
+- 2.Which components are the CSS declarations?
+- 3. Which components are considered properties?
+
+*Resources*
+ Introduction to HTML ([https://www.markdownguide.org/basic-syntax/](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML))
+HTML Text Fundamentals. HTML Advanced Text Formatting. (https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
+
+# Learn CSS
+
+- What are ways we can apply CSS to our HTML?
+*CSS can be added to HTML documents in 3 ways: Inline - by using the style attribute inside HTML elements. Internal - by using a <style> element in the <head> section. External - by using a <link> element to link to an external CSS file.
+   
+- Why should we avoid using inline styles?
+*One of the main reasons that inline styling is not a good choice for your application is because it does not support (or it has really poor support) for CSS features. Every application nowadays might have to end up using some selectors such as :hover , :active , :focused , etc.
+   
+- Review the block of code below and answer the following questions:
+   
+      h2 {
+     color: black;
+     padding: 5px;
+   }
+   
+- What is representing the selector?
+   
+(Not sure ask instructor)? Note to self
+   
+- Which components are the CSS declarations?
+   (Not sure ask instructor)? Note to self
+   
+ -Which components are considered properties?
+
+*Resources*
+(https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured)
+
+# Learn JS
+
+*Resources*
+(https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+
+- What data type is a sequence of text enclosed in single quote marks?
+Single (' ') and double (" ") quotes are used to represent a string in Javascript. Choosing a quoting style is up to you and there is no special semantics for one style over the other. Nevertheless, it is important to note that there is no type for a single character in javascript, everything is always a string
+   
+- List 4 types of JavaScript operators.
+   
+ There are different types of JavaScript operators:
+  *Resource*
+   (https://www.w3schools.com/js/js_operators.asp)
+   
+- Describe a real world Problem you could solve with a Function.
+   
+JavaScript can help fix browser problems or patch holes in browser support — for example fixing CSS layout issues in certain browsers. 
+
+**Bookmark Reference**
+(https://cbea.ms/git-commit/)
