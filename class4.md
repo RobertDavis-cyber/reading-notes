@@ -76,3 +76,60 @@ Something has gone wrong causing the image not to display. For example, try deli
 <summary>
 <time>
 
+# Class 4 Code 201 Reading Notes
+
+# My Reading Journal
+**My reading journal for seattle-code-201d92**
+
+# Readings: Readings: HTML Links, JS Functions, and Intro to CSS Layout Assignment 4
+ 
+*Resources*
+Learn HTML (https://developer.mozilla.org/en-US/docs/Learn/HTML)
+
+Creating Hyperlinks (https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
+
+# Questions
+ 
+-1. To create a basic link, we wrap text or other content inside what element?
+ 
+ <p><a href="https://www.mozilla.org/firefox/">
+  Download Firefox
+</a></p>
+ 
+-2. The href attribute contains what information?
+ 
+ href attribute specifies the URL of the page the link goes to. For <base> elements, the href attribute specifies the base URL for all relative URLs on a page. For <link> elements, the href attribute specifies the location (URL) of the external resource (most often a style sheet file).
+ 
+-3. What are some ways we can ensure links on our pages are accessible to all readers?
+
+Mouse users will at least be able to click on the links in the drop-down menu, but keyboard users cannot access the drop-down menu, so the link is completely useless and all of the link destinations in the drop-down menu are completely inaccessible to them. One solution is to abandon the drop-down menu and instead use standard hypertext links. Another solution is to specify a real link destination (e.g. href="products.htm") which would list the same links that are available via the drop-down menu. For more information see example 2 in onMouseOver section of the JavaScript Event Handlers article.
+
+*Resources*
+Links and Hypertext (https://webaim.org/techniques/hypertext/)
+
+# CSS Layout
+
+#CSS Layout: Normal Flow CSS Layout: Positioning
+ 
+-1. What is meant by “normal flow”?
+ 
+-2. What are a few differences between block-level and inline elements?
+ 
+-3. ___ positioning is the default for every html element.
+ 
+-4. Name a few advantages to using absolute positioning on an element.
+ 
+-5. What is a key difference between fixed positioning and absolute positioning?
+ 
+ *Resources*
+(https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
+ 
+ *Resources*
+(https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
+ 
+*Resources*
+(https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
+ 
+ 
+ 
+ 
