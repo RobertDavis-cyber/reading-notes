@@ -130,6 +130,34 @@ Links and Hypertext (https://webaim.org/techniques/hypertext/)
 *Resources*
 (https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
  
+# Learn JS
+Functions – Reusable Blocks of Code
  
+*Resources*
+
+-1. Describe the difference between a function declaration and a function invocation.
+ 
+ Declared functions are not executed immediately. They are "saved for later use", and will be executed later, when they are invoked (called upon).
+ 
+-2. What is the difference between a parameter and an argument?
+ 
+ Function parameters are the names listed in the function's definition. Function arguments are the real values passed to the function.
+ 
+ (Ask instructor to explains this for clarifition REMINDER!)
+ 
+# Miscellaneous
+6 Reasons for Pair Programming
+ 
+*Resources*
+(https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+
+Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
+ 
+-1.Engaged collaboration
+ 
+ This will help me in my coding journey, because this is very important in any role in a job.  I feel in software development it's very crucial and working and getting experience with help greatly.
+-2.Work environment readiness
+ 
+ I feel work environment readiness helps you figure out if the type of work is really a good fit.  The readiness training and excerises will help when you go out field and prepare you for what challenges are to come.
  
  
