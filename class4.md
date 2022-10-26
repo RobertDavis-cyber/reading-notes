@@ -160,4 +160,9 @@ Pick 2 benefits to pair programming and reflect on how these benefits could help
  
  I feel work environment readiness helps you figure out if the type of work is really a good fit.  The readiness training and excerises will help when you go out field and prepare you for what challenges are to come.
  
+ # Things I want to know more about!
+ 
+  -1. pair programming and how it works in the industry of software developement.
+ 
+ 
  
