@@ -50,3 +50,108 @@ let z = x + y;     // assign the value 7 to z (5 + 2)
 *Resources*
 (https://www.w3schools.com/js/js_operators.asp)
 
+# Class 7 Code 201 Reading Notes
+
+# My Reading Journal
+**My reading journal for seattle-code-201d92**
+
+# Readings: Readings: Object-Oriented Programming, HTML Tables
+
+# Domain Modeling
+
+-1. Explain why we need domain modeling.
+
+In software engineering, a domain model is a conceptual model of the domain that incorporates both behavior and data. In ontology engineering, a domain model is a formal representation of a knowledge domain with concepts, roles, datatypes, individuals, and rules, typically grounded in a description logic
+
+(https://en.wikipedia.org/wiki/Domain_model)
+
+*Resources* 
+(https://github.com/codefellows/domain_modeling#domain-modeling)
+
+# HTML Table Basics
+
+-1. Why should tables not be used for page layouts?
+
+The World Wide Web Consortium (W3C®) discourages use of tables for layout because they are striving for a web in which content and structure are completely separate from presentation.
+
+-2. List and describe 3 different semantic HTML elements used in an HTML <table>.
+ 
+-1.HTML <section> Element
+The <section> element defines a section in a document.
+
+According to W3C's HTML documentation: "A section is a thematic grouping of content, typically with a heading."
+
+Examples of where a <section> element can be used:
+
+Chapters
+Introduction
+News items
+Contact information
+A web page could normally be split into sections for introduction, content, and contact information.
+  
+-2. HTML <article> Element
+The <article> element specifies independent, self-contained content.
+
+An article should make sense on its own, and it should be possible to distribute it independently from the rest of the web site.
+
+Examples of where the <article> element can be used:
+
+Forum posts
+Blog posts
+User comments
+Product cards
+Newspaper articles
+  
+-3. HTML <header> Element
+The <header> element represents a container for introductory content or a set of navigational links.
+
+A <header> element typically contains:
+
+one or more heading elements (<h1> - <h6>)
+logo or icon
+authorship information
+Note: You can have several <header> elements in one HTML document. However, <header> cannot be placed within a <footer>, <address> or another <header> element.
+  
+ *Source* (https://www.w3schools.com/html/html5_semantic_elements.asp#:~:text=Examples%20of%20semantic%20elements%3A%20%3Cform,%3E%20%2D%20Clearly%20defines%20its%20content.)
+  
+*Resources* 
+(https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
+  
+# Introducing Constructors
+  
+-1. What is a constructor and what are some advantages to using it?
+  
+ A constructor in Java is a special method that is used to initialize objects. The constructor is called when an object of a class is created. It can be used to set initial values for object attributes
+  
+-2. How does the term this differ when used in an object literal versus when used in a constructor?
+  
+Objects created using object literal are singletons, this means when a change is made to the object, it affects the object entire the script. Whereas if an object is created using constructor function and a change is made to it, that change won't affect the object throughout the script.
+  
+*Resources* 
+(https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics#introducing_constructors)
+ 
+  
+ # Object Prototypes Using A Constructor NOTE: This is a very common front end developer interview question
+
+  
+ -1. Explain prototypes and inheritance via an analogy from your previous work experience.
+  
+In JavaScript, an object can inherit properties of another object. The object from where the properties are inherited is called the prototype. In short, objects can inherit properties from other objects — the prototypes.
+  
+This question I am confused on?  Ask instructor via analogy from your previous work experience?
+
+  
+ *Resources*
+ (https://ui.dev/beginners-guide-to-javascript-prototype)
+  
+ # Bookmark and Read Over Reference 
+  
+  *Resources*
+  
+  HTML Table Advanced Features and Accessibility. (https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced)
+  
+  # Things I want to know more about!
+  
+  I would like to get more information about Object Prototypes Using A Constructor NOTE: This is a very common front end developer interview questions.
+  
+
