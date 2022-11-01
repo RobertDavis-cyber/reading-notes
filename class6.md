@@ -84,3 +84,69 @@ if (confirm("Shall I print Hello World?")) {
 
 *Resources*
 CSS syntaxx (https://code-maven.com/javascript-input-with-prompt-and-confirm)
+
+
+# Class 6 Code 201 Reading Notes
+
+# My Reading Journal
+**My reading journal for seattle-code-201d92**
+
+# Readings: Readings: Problem Domain, Objects, and the DOM
+
+# JavaScript Object Basics
+
+-1. How would you describe an object to a non-technical friend you grew up with?
+
+In JavaScript, an object is a standalone entity, with properties and type. Compare it with a cup, for example. A cup is an object, with properties. A cup has a color, a design, weight, a material it is made of, etc.
+
+-2. What are some advantages to creating object literals?
+
+The advantages of using object literals to create objects include convenience, flexibility in declaration, and less code during declaration. You can drop an object literal anywhere in your program with no previous setup and it'll work.
+
+-3. How do objects differ from arrays?
+
+Objects represent “things” with characteristics (properties), while arrays create and store lists of data in a single variable.
+
+-4. Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.
+
+Dot notation is faster to write and easier to read than bracket notation. However, you can use variables with bracket notation, but not with dot notation. This is especially useful for situations when you want to access a property but don't know the name of the property ahead of time.
+
+-5. Evaluate the code below. What does the term this refer to and what is the advantage to using this?
+
+const dog = {
+  name: 'Spot',
+  age: 2,
+  color: 'white with black spots',
+  humanAge: function (){
+    console.log(`${this.name} is ${this.age*7} in human years`);
+  }
+}
+
+-5. The this keyword refers to the current object the code is being written inside — so in this case this is equivalent to person.  Using this enables you to use the same method definition for every object you create.
+
+Refer to age the the this
+
+*Resources* 
+JavaScript Object Basics (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+
+# Introduction To The DOM
+
+-1. What is the DOM?
+
+The Document Object Model (DOM) is a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content. The DOM represents the document as nodes and objects; that way, programming languages can interact with the page.
+
+-2. Briefly describe the relationship between the DOM and JavaScript.
+
+The DOM is not a programming language, but without it, the JavaScript language wouldn't have any model or notion of web pages, HTML documents, SVG documents, and their component parts.
+
+The DOM is not part of the JavaScript language, but is instead a Web API used to build websites. JavaScript can also be used in other contexts. For example, Node.js runs JavaScript programs on a computer, but provides a different set of APIs, and the DOM API is not a core part of the Node.js runtime.
+
+*Resources* 
+Introduction To The DOM (https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+
+# Bookmark and Review
+
+Understanding the problem domain is the hardest part of programming.
+
+What’s the difference between primitive values and object references in JavaScript?
+(https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b)
