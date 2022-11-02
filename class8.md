@@ -86,3 +86,58 @@ var2 <= 5
 *Resources*
 (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#comparison_operators)
 
+# My Reading Journal
+My reading journal for seattle-code-201d92
+
+Reading 8
+
+# Why this topic matters studying in this module.
+
+*It is useful in allocating and aligning the space among items in a grid container. It works with various kinds of display devices and screen sizes. Flex layout makes it easier to design and build responsive web pages without using many float and position properties in the CSS code.
+
+# Readings: CSS Layout
+
+*Resources*
+(https://web.dev/learn/css/flexbox/)
+
+# Learn CSS - Flexbox
+
+-1. Flexbox is designed for one-dimensional content. Explain what this means.
+
+*Flexbox is a one-dimensional layout model that was designed to provide greater control over alignment and space distribution between items within a container. Being one-dimensional, it only deals with layout in a single direction - columns or rows - at a time. This works well for smaller layouts, such as components
+
+-2. Explain the difference between the main axis and cross axis.
+
+*The two axes of flexbox when working with flexbox you need to think in terms of two axes — the main axis and the cross axis. The main axis is defined by the flex-direction property, and the cross axis runs perpendicular to it.
+
+-3. How can using certain properties of flexbox negatively impact accessibility?
+
+*The problem while the eye can explore the content in two dimensions, a screen reader necessarily linearizes the content into a one-dimensional stream. The visually-implicit reading order of a flexbox presentation may or may not match this linear order, which is based on the DOM order. This mismatch can create reading order problems that could confuse users and possibly fail WCAG 1.3.2 (Meaningful Sequence).
+
+*Resources*
+[(https://web.dev/learn/css/flexbox/)](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+
+# CSS Layout - Flexbox
+
+-1. What are some advantages of using flexbox over float?
+
+*Flexbox is responsive and mobile-friendly. Flex container's margins do not collapse with the margins of its content. We can easily change the order of elements on our webpage without even making changes in HTML.
+
+-2. How does this topic connect with your long term goals?
+
+*This topic Flexbox is definitely the way to go for 99% of cases.  CSS grids are for 2D layouts. It works with both rows and columns. Flexbox works better in one dimension only (either rows OR columns). It will be more time saving and helpful if you use both at the same time.
+
+*Resources*
+(https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+
+# Bookmark and Review
+
+*Resources*
+(https://web.dev/learn/css/layout/)
+
+# Things I want to know more about?
+
+Examples of tech companies using FlexBox and breaking it down in class demo.
+
+
+
