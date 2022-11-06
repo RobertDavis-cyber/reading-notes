@@ -10,9 +10,25 @@ Reading 11 Readings: Audio, Video, Images
 # Video and Audio Content
 
 -1. Explain how the ability to use video and audio on the web has evolved since the early 2000s.
+*In the late 1990s, a new technology appeared on the scene. Flash was a software platform that allowed designers to incorporate music, video and animation into websites, making for a more dynamic audio-visual experience. Flash also gave designers more freedom to make websites interactive. This was indeed the era of a creative and technological breakthrough in web design. Interactive menus, splash pages, decorative animations, and beautifully rendered bubble buttons dominated the web design trend to wow people.
+
 -2. Describe the use of the src and controls attributes in the <video> element.
+  
+*The <video> tag is used to embed video content in a document, such as a movie clip or other video streams.
+
+*The <video> tag contains one or more <source> tags with different video sources. The browser will choose the first source it supports.
+
+*The text between the <video> and </video> tags will only be displayed in browsers that do not support the <video> element.
+
+* There are three supported video formats in HTML: MP4, WebM, and OGG.
+
 -3. Why is it important to have fallback content inside the <video> element?
+  
+*Video fallback, also known as waterfall or client-side mediation, maximizes the likelihood of filling an impression opportunity when you're using VAST redirects. With fallback, Ad Manager determines the eligibility of ads, ranks them accordingly, and returns a slate of ads, rather than just one.
+
 -4. Write a very short story where <audio> and <video> are characters.
+  
+*events for the <audio> and <video> elements.
   
 (https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
   
