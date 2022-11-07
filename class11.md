@@ -36,15 +36,42 @@ Reading 11 Readings: Audio, Video, Images
   
  -1. How does Grid layout differ from Flex?
 Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences.
+  
  -2. Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences.
+  
+ Grid Laytout the CSS Grid Layout Module offers a grid-based layout system, with rows and columns, making it easier to design web pages without having to use floats and positioning.
+  
+ Grid item a grid container contains grid items.
+  
+ Grid line using grid lines allows us to explicitly state an item's location on two dimensions - both for columns and for rows. This is why CSS Grid is known as a two-dimensional layout system. This is one of the primary distinctions between CSS Grid and Flexbox.
+
+By default, a container has one grid item for each column, in each row, but you can style the grid items so that they will span multiple columns and/or rows.
   
 (https://css-tricks.com/snippets/css/complete-guide-grid/)
   
 # Responsive Images 
   
 -1. Besides making a site visually appealing across different screen sizes, why should developers make images responsive?
+  
+Having responsive images is important because it helps us deliver optimal file size, the right image for the right screen size, improves user experience and improves loading time. Having various versions of your image is important for creating a responsive image.
+  
 -2. Define the following <img> attributes srcset and sizes. Write an example of how they are used.
+  
+The `srcset` and `sizes` attributes on `img` (or `source`) elements allow authors to define various image resources.
+
+A <picture> element with two source files, and a fallback image:
+
+<picture>
+  <source media="(min-width:650px)" srcset="img_pink_flowers.jpg">
+  <source media="(min-width:465px)" srcset="img_white_flower.jpg">
+  <img src="img_orange_flowers.jpg" alt="Flowers" style="width:auto;">
+</picture>
+  
+(https://www.w3schools.com/tags/att_source_srcset.asp#:~:text=The%20srcset%20attribute%20specifies%20the,is%20used%20in%20.)
+  
 -3. How is srcset more helpful for responsive images than CSS or JavaScript?
+  
+*srcset allows you to define a list of different image resources along with size information so that browser can pick the most appropriate image based on the actual device's resolution.
   
 (https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
   
