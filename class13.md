@@ -44,3 +44,9 @@ Using concatenation with an empty string
 *Resources*
 (http://diveinto.html5doctor.com/storage.html)
 
+# Things I want to know mor about!
+
+Is local storage a web API?
+
+
+
