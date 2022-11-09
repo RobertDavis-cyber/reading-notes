@@ -15,17 +15,17 @@ Read: Class 14 - Psychological Safety for Guest Speaker
 
 *It always struck Rozovsky as odd that her experiences with the two groups were dissimilar. Each was composed of people who were bright and outgoing. When she talked one on one with members of her study group, the exchanges were friendly and warm. It was only when they gathered as a team that things became fraught. By contrast, her case-competition team was always fun and easygoing. In some ways, the team’s members got along better as a group than as individual friends.
 
-This quote and expiences is a great explanation of what the work environment professional and personally is like.
+# This quote and expiences is a great explanation of what the work environment professional and personally is like.
 
 *"Yet many of today’s most valuable firms have come to realize that analyzing and improving individual workers ­— a practice known as ‘‘employee performance optimization’’ — isn’t enough. As commerce becomes increasingly global and complex, the bulk of modern work is more and more team-based."
 
-Successful teams work together and motivate, grateful, and have targets or common goals that they want to reach.
+# Successful teams work together and motivate, grateful, and have targets or common goals that they want to reach.
 
 *"In Silicon Valley, software engineers are encouraged to work together, in part because studies show that groups tend to innovate faster, see mistakes more quickly and find better solutions to problems. Studies also show that people working in teams tend to achieve better results and report higher job satisfaction. "
 
 *"Some groups that were ranked among Google’s most effective teams, for instance, were composed of friends who socialized outside work. Others were made up of people who were basically strangers away from the conference room. Some groups sought strong managers. Others preferred a less hierarchical structure."
 
-This part of the article is very interesting to have effective teams what is the best factors?
+# This part of the article is very interesting to have effective teams what is the best factors?
 
 *"After looking at over a hundred groups for more than a year, Project Aristotle researchers concluded that understanding and influencing group norms were the keys to improving Google’s teams. "
 
@@ -36,7 +36,7 @@ This part of the article is very interesting to have effective teams what is the
 
 *"In the best teams, members listen to one another and show sensitivity to feelings and needs."
 
-This article is 100% important to know to be successful in any job.
+# This article is 100% important to know to be successful in any job.
 
 # Resource
 (https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
