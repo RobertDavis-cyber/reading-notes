@@ -68,6 +68,12 @@ My reading journal for seattle-code-201d92
 
 # Code 301 - Intermediate Software Development
 
+# My Reading Journal
+My reading journal for seattle-code-301d92
+
+### Table of Contents
+
+
 # Code 401 - Advanced Software Development
 
 
