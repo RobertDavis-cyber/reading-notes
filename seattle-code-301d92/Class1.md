@@ -25,15 +25,15 @@ Functional Components: Functional components are simply javascript functions. We
 
 1. What is “props” short for?
 
-# props stands for properties, which refers to the properties of an object. This is because all elements created in React are JavaScript objects.
+props stands for properties, which refers to the properties of an object. This is because all elements created in React are JavaScript objects.
 
 2. How are props used in React?
 
-# Props are used to store data that can be accessed by the children of a React component. 
+Props are used to store data that can be accessed by the children of a React component. 
 
-3 What is the flow of props?
+3. What is the flow of props?
 
-# props in React to pass data from one component to another from a parent component to a child components. Props is another way of saying properties. It is useful when you want the flow of data in your app to be dynamic.
+props in React to pass data from one component to another from a parent component to a child components. Props is another way of saying properties. It is useful when you want the flow of data in your app to be dynamic.
 
 # Bookmark Links
 
