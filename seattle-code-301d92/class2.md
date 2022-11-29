@@ -4,7 +4,7 @@
 
 # React lifecycle
 
-1. Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’? *Rendering?   This is the order when DOM in the mounting phase.  Constructor, static getDerivedStateFromProps, render, componentDidMount, and UNSAFE_componentWillMount all occur in this order during mounting.
+1. Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’? *Rendering? This is the order when DOM in the mounting phase.  Constructor, static getDerivedStateFromProps, render, componentDidMount, and UNSAFE_componentWillMount all occur in this order during mounting.*
 
 2. What is the very first thing to happen in the lifecycle of React? 
 
