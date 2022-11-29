@@ -18,7 +18,7 @@
 
 2. What is the big difference between props and state? *State is internal and controlled by the component itself. Props are external and controlled by what renders the component.
  
-3. When do we re-render our application? *Re-render happens when React needs to update the app with some new data. Example when a user interacting with the app or some external data coming through.
+3. When do we re-render our application? *Re-render happens when React needs to update the app with some new data. Example when a user interacting with the app or some external data coming through.*
 
 4. What are some examples of things that we could store in state? *e-commerce site information like the ordered product, quantity, delivery person, delivery fee, total amount, and etc can be stored in logical state.
 
