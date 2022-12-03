@@ -21,7 +21,8 @@ Create a new Static Site on Render, and give Render permission to access your ne
 
 2. Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?--*Higher Orders Functions are functions that perform operations on other functions.  greaterThan(10) calling number greater than 10 to render like 11?*
 
-3. Explain how either map or reduce operates, with regards to higher-order functions.--*?*
+3. Explain how either map or reduce operates, with regards to higher-order functions.--*?map function, found in many functional programming languages, is one example of a higher-order function. It takes as arguments a function f and a collection of elements, and as the result, returns a new collection with f applied to each element from the collection.*
+Reference (https://en.wikipedia.org/wiki/Higher-order_function)
 
 ## Things I want to know more about.....
 
