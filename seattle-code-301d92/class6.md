@@ -18,7 +18,7 @@
 
 6. What version of npm are you running on your machine?--*8.19.3?*
 
-7. What command would you type to install a library/package called ‘jshint’?--*To install the JSHint tool, run the command npm install jshint i*
+7. What command would you type to install a library/package called ‘jshint’?--*To install the JSHint tool, run the command npm install jshint.*
 
 8. What is node used for?--*Node is the most popular platform for hosting and running web servers for React apps. Using NPM (Node Package Manager), you can install any package with NPM command-line interface CLI.  Node utilizes Webpack and other modules to turn a React application into an easily compilable single file*
 
