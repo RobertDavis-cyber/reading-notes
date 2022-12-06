@@ -24,16 +24,26 @@ Geocoding API
 
 1.Did you get your API key?
 
+*Yes*
+
 Weather Bit API
 
 1. Did you get your API key?
+
+*Yes*
 
 Yelp API Docs
 
 1. Did you get your API key?
 
+*Yes*
+
 The Movie DB API Docs
 
 1. Did you get your API key?
 
+*Yes*
+
 ## Things I want to know more about...
+
+Where is the best place to store your API keys?  Can API keys be shared with team members when you are working on projects?  Does each person need to have a seperate API key?
