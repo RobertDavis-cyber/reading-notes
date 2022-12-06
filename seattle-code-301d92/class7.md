@@ -44,6 +44,17 @@ The Movie DB API Docs
 
 *Yes*
 
+## Reference Links
+
+(https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+(https://gist.github.com/brookr/5977550)
+(https://locationiq.com/)
+(https://www.weatherbit.io/)
+(https://docs.developer.yelp.com/reference/v3_business_search)
+(https://developers.themoviedb.org/3/getting-started/introduction)
+
+
+
 ## Things I want to know more about...
 
 Where is the best place to store your API keys?  Can API keys be shared with team members when you are working on projects?  Does each person need to have a seperate API key?
