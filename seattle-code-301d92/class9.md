@@ -29,5 +29,5 @@
 
 (https://www.youtube.com/watch?v=xHLd36QoS4k)
 
-
-(
+## Things I want to know more about....
+*What happens if there is no Node.js?  Will the code work still?  Are there any workarounds if this happens in development or it's live the product?*
