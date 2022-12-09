@@ -8,7 +8,7 @@
 
 2.How many ‘calls’ can happen at once?--*Infinitely. Not really until you don't overflow the stack with function calls. Since each time a function is called all the variables used need space to be store in stack and stack is of limited size so someway in middle of any hundredth or thousandth call you will run out stack for function call.*
 
-3.What does LIFO mean?--*It meanslast in, first out. It is a method for handling data structures where the first element is processed last and the last element is processed first.*
+3.What does LIFO mean?--*It means last in, first out. It is a method for handling data structures where the first element is processed last and the last element is processed first.*
 
 4.Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
 (https://commons.wikimedia.org/wiki/File:Call_stack_layout.svg#/media/File:Call_stack_layout.svg)
