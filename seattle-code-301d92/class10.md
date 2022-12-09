@@ -21,9 +21,10 @@
 
 1.What is a ‘reference error’?--*The ReferenceError object represents an error when a variable that doesn't exist (or hasn't yet been initialized) in the current scope is referenced.*
 
-2.What is a ‘syntax error’?--*A RangeError is thrown when trying to pass a value as an argument to a function that does not allow a range that includes the value. *
+2.What is a ‘syntax error’?--*An exception caused by the incorrect use of a pre-defined syntax. Syntax errors are detected while compiling or parsing source code.*
 
-3.What is a ‘range error’?--**
+3.What is a ‘range error’?--*A RangeError is thrown when trying to pass a value as an argument to a function that does not allow a range that includes the value.*
+*
 
 4.What is a ‘type error'?--*The TypeError object represents an error when an operation could not be performed, typically (but not exclusively) when a value is not of the expected type.*
 
