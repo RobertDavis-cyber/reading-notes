@@ -39,3 +39,7 @@
 
 *Auth0 for single page apps*
 (https://auth0.com/docs/libraries/auth0-react)
+
+## Things I want to know more about...
+
+*More about OAuth and how it we have to work with it as Developers frontend or backend?*
